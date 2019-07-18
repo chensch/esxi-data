@@ -16,11 +16,11 @@
 
 ### #设置PowerShell执行策略
 
-- `Set-ExecutionPolicy RemoteSigned`
+- 执行`Set-ExecutionPolicy RemoteSigned`
 
 - 是否要更改执行策略?键入`A`
 
-- `Get-ExecutionPolicy`返回`RemoteSigned`为正常
+- 执行`Get-ExecutionPolicy`返回`RemoteSigned`为正常，否则[点我](https://www.google.com.hk/ "")
 
 ### #生成自定义镜像
 - 新建vib文件夹，把驱动文件都复制到vib
@@ -35,7 +35,7 @@ d-----        2019/7/18     12:27                vib
 
 - 执行`.\ESXi-Customizer-PS-v2.6.0.ps1 -v65 -izip .\VMware-ESXi-6.5.0-4564106-depot.zip -pkgDir .\vib`
 
-- 等待...🆗
+- 等待...🆗...done.
 
 -------
 
