@@ -16,7 +16,7 @@
 
 ### #设置PowerShell执行策略
 
-- 执行`Set-ExecutionPolicy RemoteSigned`
+- 执行`Set-ExecutionPolicy RemoteSigned`(运行本地的script不需要数字签名，但是运行从网络上下载的script就必须要有数字签名)
 
 - 是否要更改执行策略?键入`A`
 
