@@ -35,5 +35,13 @@ d-----        2019/7/18     12:27                vib
 
 - 执行`.\ESXi-Customizer-PS-v2.6.0.ps1 -v65 -izip .\VMware-ESXi-6.5.0-4564106-depot.zip -pkgDir .\vib`
 
-- 等待...
+- 等待...🆗
+
+-------
+
+### 补充：
+
+- 如果执行出现错误，请尝试安装完VMware.PowerCLI模块后重新运行PowerShell（管理员）
+
+- 目录不能存在中文
 
