@@ -8,7 +8,7 @@
 
 ###  #安装VMware.PowerCLI
 
-- 管理员权限运行Windows PowerShell，执行命令`Install-Module -Name VMware.PowerCLI`,[详细说明](https://www.powershellgallery.com/packages/VMware.PowerCLI/6.5.1.5377412 "")
+- 管理员权限运行Windows PowerShell，执行命令`Install-Module -Name VMware.PowerCLI`,[详细说明](https://www.powershellgallery.com/packages/VMware.PowerCLI/ "")
 
 - 提示安装模块？键入`A`，将会联网安装Windows PowerShell的VMware.PowerCLI模块
 
